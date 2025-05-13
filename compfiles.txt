@@ -1,2 +1,6 @@
+./miPrincipal/Aplicacion.java
 ./miPrincipal/Principal.java
+./miPrincipal/TestExceptionValidacion.java
+./miPrincipal/Usuario.java
+./miPrincipal/TestException.java
 ./miTest/AppTest.java
