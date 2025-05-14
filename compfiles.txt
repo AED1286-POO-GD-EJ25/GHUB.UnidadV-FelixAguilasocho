@@ -2,5 +2,7 @@
 ./miPrincipal/Principal.java
 ./miPrincipal/TestExceptionValidacion.java
 ./miPrincipal/Usuario.java
+./miPrincipal/TestExceptionPersonalizada.java
 ./miPrincipal/TestException.java
+./miPrincipal/MiExceptionPersonalizada.java
 ./miTest/AppTest.java
